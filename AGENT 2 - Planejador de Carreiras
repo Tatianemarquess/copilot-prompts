@@ -1,5 +1,5 @@
 Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
-
+Entrevistada Tatiane.
 Carreira em Tecnologia
 
 Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
@@ -42,111 +42,109 @@ Vou montar agora seu plano completo personalizado..."
 
 🧩 VISÃO DO DIA A DIA
 
-Como é o trabalho de um(a) (CARREIRA):
-
-- (atividade típica 1)
-- (atividade típica 2)
-- (atividade típica 3)
-- (atividade típica 4)
-- (atividade típica 5)
+Como é o trabalho de um(a) Engenheiro(a) de Machine Learning:
+Coletar e limpar dados de diferentes fontes.
+Criar e treinar modelos de ML com Python.
+Avaliar métricas e melhorar desempenho dos modelos.
+Documentar e compartilhar resultados com a equipe.
+Implantar modelos em produção e monitorar performance.
 
 🧠 MAPA DE SKILLS
-
 CORE SKILLS (essenciais):
-- (skill 1)
-- (skill 2)
-- (skill 3)
+Python para ciência de dados.
+Estatística aplicada.
+Algoritmos de Machine Learning.
 
 NICE-TO-HAVE (complementares):
-- (skill 1)
-- (skill 2)
+SQL para manipulação de dados.
+Noções de MLOps.
 
-FERRAMENTAS E TECNOLOGIAS:
-- (tecnologia 1)
-- (tecnologia 2)
-- (tecnologia 3)
+FERRAMENTAS E TECNOLOGIAS (todas com recursos gratuitos):
+Pandas / NumPy (documentação oficial + tutoriais YouTube)
+Scikit-learn (documentação + exemplos gratuitos)
+TensorFlow / PyTorch (cursos introdutórios gratuitos)
 
 📅 ROADMAP DE 90 DIAS
 
-ADAPTADO PARA: (HORAS_SEMANA) horas/semana
-
+ADAPTADO PARA: 20h/semana (conteúdo gratuito)
 MÊS 1 - FUNDAMENTOS
 
 SEMANA 1-2:
-- (meta específica 1)
-- (meta específica 2)
+Curso gratuito de Python na DIO (Formação Python Developer)
+Estatística básica com Khan Academy (gratuito)
 
 SEMANA 3-4:
-- (meta específica 1)
-- (meta específica 2)
+Manipulação de dados com Pandas (YouTube: “Pandas Tutorial” do canal Data School)
+Regressão linear e logística com Scikit-learn (documentação + exemplos)
 
 MÊS 2 - PRÁTICA
 
 SEMANA 5-6:
-- (meta específica 1)
-- (meta específica 2)
+Algoritmos supervisionados (árvores, KNN, SVM) com Scikit-learn
+Exercícios práticos no Kaggle (datasets gratuitos)
 
 SEMANA 7-8:
-- (meta específica 1)
-- (meta específica 2)
+Redes neurais básicas com TensorFlow (curso gratuito TensorFlow.org)
+Projeto prático com dataset MNIST (disponível free)
 
 MÊS 3 - PORTFÓLIO E PREPARAÇÃO
 
 SEMANA 9-10:
-- (meta específica 1)
-- (meta específica 2)
+Projeto Kaggle: Previsão de preços de imóveis (dataset gratuito)
+Publicar notebook no GitHub
 
 SEMANA 11-12:
-- (meta específica 1)
-- (meta específica 2)
+Preparar currículo destacando projetos
+Simular entrevistas com perguntas comuns (YouTube: “Data Science Interview Questions”)
 
 🚀 PROJETO DE PORTFÓLIO
 
-PROJETO: (nome do projeto)
+PROJETO:Previsão de preços de imóveis
 
 O QUE FAZER:
-(descrição clara do escopo)
+Usar dataset gratuito do Kaggle para treinar modelos de regressão e prever preços.
 
 ENTREGÁVEIS:
-- (entregável 1)
-- (entregável 2)
-- (entregável 3)
+Notebook Jupyter com pipeline completo
+README no GitHub explicando o projeto
+Relatório com métricas (RMSE, MAE
 
 CRITÉRIOS DE ACEITAÇÃO:
-- (critério 1)
-- (critério 2)
-- (critério 3)
+Modelo treinado e avaliado
+Código limpo e comentado
+Repositório público no GitHub
 
-DICA: (dica prática para executar o projeto)
+DICA: Use o Kaggle para praticar e ganhar “medalhas” que fortalecem seu perfil.
 
 💬 ROTEIRO DE ENTREVISTAS
 
-PERGUNTA 1: (pergunta comum júnior)
+PERGUNTA 1: O que é overfitting?
 COMO RESPONDER:
-(exemplo estruturado de resposta)
+Explique que é quando o modelo aprende demais os dados de treino e não generaliza.
 
-PERGUNTA 2: (pergunta comum júnior)
+PERGUNTA 2: Diferença entre aprendizado supervisionado e não supervisionado.
 COMO RESPONDER:
-(exemplo estruturado de resposta)
+Supervisionado usa rótulos, não supervisionado busca padrões sem rótulos.
 
-PERGUNTA 3: (pergunta comum júnior)
+PERGUNTA 3: Como tratar dados faltantes?
 COMO RESPONDER:
-(exemplo estruturado de resposta)
+ Imputação (média/mediana), exclusão ou modelos que lidam com missing values.
 
-PERGUNTA 4: (pergunta comum júnior)
+PERGUNTA 4: Quais métricas para classificação?
 COMO RESPONDER:
-(exemplo estruturado de resposta)
+Acurácia, precisão, recall, F1-score. Explique quando cada é mais útil.
 
-PERGUNTA 5: (pergunta comum júnior)
+PERGUNTA 5: Conte sobre um projeto.
 COMO RESPONDER:
-(exemplo estruturado de resposta)
+Estruture em problema → solução → resultado → aprendizado. Use seu projeto Kaggle.
+
 
 🎓 TRILHA DIO RECOMENDADA
 
-TRILHA: (nome específico da trilha/bootcamp DIO)
+TRILHA: (Bootcamp Machine Learning Specialist (DIO)
 
 POR QUE ESSA TRILHA:
-(explicação de como conecta com a carreira)
+É gratuita, cobre Python, estatística, ML e projetos práticos, alinhando com seu objetivo de primeiro emprego.
 
 PRÓXIMOS PASSOS:
 1. Acesse dio.me
